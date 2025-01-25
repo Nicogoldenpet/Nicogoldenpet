@@ -1,4 +1,4 @@
-## Hi i am nico 👋
+## Hi I'm Nico! 👋
 
 
 
