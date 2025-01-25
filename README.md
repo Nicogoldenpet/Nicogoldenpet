@@ -1,8 +1,12 @@
-## Hi there 👋
+## Hi i am nico 👋
 
 <!--
 **Nicogoldenpet/Nicogoldenpet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+Nicogoldenpet
+
+![Nico's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nicogoldenpet&show_icons=true&hide_border=true&theme=radical&cache_seconds=1800)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniels-py&layout=compact&theme=radical&cache_seconds=1800)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
