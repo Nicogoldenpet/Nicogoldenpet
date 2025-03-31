@@ -37,6 +37,9 @@ Here are some ideas to get you started:
   <img alt="Nicogoldenpet's Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Nicogoldenpet&theme=midnight-purple&hide_border=true">
 </p>
 
+<!-- RAINBOW LINE TOP -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
 <!--
 **Nicogoldenpet/Nicogoldenpet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
